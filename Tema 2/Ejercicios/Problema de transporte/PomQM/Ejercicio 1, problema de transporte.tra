@@ -1,0 +1,22 @@
+9.2,1,0,1000,(untitled)
+"POM for Windows 5.2 Build 0.121 Taylor edition 12"
+1,2,0,0,0,0,0
+0,1,0,0,1,0,0
+2,False,0,0,0,0,0,0
+3,3
+""
+"A1"
+"A2"
+"SUPPLY"
+""
+"F1"
+" F2"
+"DEMAND"
+3
+dummy, 0, 0, 0, 0,
+F1, 0, 4, 6, 20,
+ F2, 0, 5, 3, 30,
+DEMAND, 0, 25, 25, 0,
+-1, -1
+done
+""
